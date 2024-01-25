@@ -8,23 +8,27 @@ I highly recommend checking out [Intel's AI plugin for Audacity](https://github.
 
 ## Installation
 
-1. Download *Subtitle_Generator.ny*.
-2. In Audacity, navigate to *Tools* > *Nyquist Plug-in Installer…*
-3. Select the downloaded *Subtitle_Generator.ny* file and open it to install.
+1. Download `Subtitle_Generator.ny`.
+2. In Audacity, navigate to `Tools` > `Nyquist Plug-in Installer…`
+3. Select the downloaded `Subtitle_Generator.ny` file and open it to install.
 
 Or:
 
-1. Place the *Subtitle_Generator.ny* in your Audacity installation folder, in the Plug-Ins folder
-2. In Audacity: *Tools* > *Plugin Manager* > *Rescan*
+1. Place the `Subtitle_Generator.ny` in your Audacity installation folder, in the Plug-Ins folder
+2. In Audacity: `Tools` > `Plugin Manager` > `Rescan`
 3. That should detect and automatically enable the plugin.
 
 ## Usage
 
 1. Open your project in Audacity and ensure you have a label track.
-2. Go to *Tools* (or *Analyze* depending on your Audacity version).
-3. Select *Subtitle Generator*.
+2. Go to `Tools` (or `Analyze` depending on your Audacity version).
+3. Select `Subtitle Generator`.
 4. Choose a filename and format (SRT or LRC) for your subtitles.
-5. Click *Apply*.
+5. Click `Apply`.
+
+### Tip:
+
+To view subtitles for audio files in VLC, start playing the MP3 file in VLC then go to `Audio` > `Visualizations` > `Spectrometer`. Now you have a "visual" and are able to see the subtitles.
 
 ## Credit:
 
