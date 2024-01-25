@@ -1,8 +1,8 @@
 # Subtitle Generator Plugin for Audacity
 
-Easily convert label tracks into subtitles (SRT or LRC). Hint: use Intel's Audacity AI for auto-transcription.
+Easily convert label tracks into subtitles (SRT or LRC).
 
-I highly recommend checking out [Intel's AI plugin for Audacity](https://github.com/intel/openvino-plugins-ai-audacity), which can quickly and efficiently create the transcription.
+<sub>I highly recommend checking out [Intel's AI plugin for Audacity](https://github.com/intel/openvino-plugins-ai-audacity), which can quickly and efficiently create the transcription.</sub>
 
 <image src='https://github.com/sm18lr88/Audacity_Subtitle_Generator_Plugin/assets/64564447/0a7fa7f5-0afd-4934-99f0-ea4c75a15810' width='600'>
 
