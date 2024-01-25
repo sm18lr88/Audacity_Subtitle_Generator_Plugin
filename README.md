@@ -30,9 +30,9 @@ Or:
 
 To view subtitles for audio files in VLC, start playing the MP3 file in VLC then go to `Audio` > `Visualizations` > `Spectrometer`. Now you have a "visual" and are able to see the subtitles.
 
-## Credit:
+#### Credit:
 
-- Some unknown guy named "Cheng Huaiyu" created a [post](https://forum.audacityteam.org/t/convert-label-text-to-lrc-file/55495/45) years ago in Audacity's forum, and the code was compiled throughout the thread. So I put it together and shared it here.
+<sub>Some unknown guy named "Cheng Huaiyu" created a [post](https://forum.audacityteam.org/t/convert-label-text-to-lrc-file/55495/45) years ago in Audacity's forum, and the code was compiled throughout the thread. So I put it together and shared it here.</sub>
 
 ---
 
